@@ -1,0 +1,21 @@
+{
+  "name": "D3 Graph Template",
+  "version": "0.0.1",
+  "authors": [
+    "Mila Frerichs"
+  ],
+  "description": "A simple template for d3 graphs",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.11",
+    "underscore": "~1.6.0"
+  }
+}
